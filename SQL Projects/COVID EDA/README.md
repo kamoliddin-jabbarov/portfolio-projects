@@ -1,4 +1,4 @@
-Global COVID Dataset EDA
+# Global COVID Dataset EDA
 
 <a href="https://ourworldindata.org/covid-deaths" target="_blank">Dataset link</a>
 
