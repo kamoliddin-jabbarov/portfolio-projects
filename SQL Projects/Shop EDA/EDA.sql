@@ -1,3 +1,9 @@
+--Problems
+-- a. Calculation of turnover from one consumer
+-- b. Calculating the frequency of orders per consumer per week
+-- c. Calculation of turnover by payment date
+
+
 --Option 1 
 --I used only the payments table to calculate the payments
 --a
