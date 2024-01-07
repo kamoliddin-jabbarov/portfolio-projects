@@ -106,3 +106,24 @@ with customers_cte as (
 )
 
 select * from customers_cte
+
+COPY customers TO 'D:\GitHub\portfolio-projects\SQL Projects\Shop EDA\customers.csv' DELIMITER ',' CSV HEADER;
+
+COPY employees TO 'D:\GitHub\portfolio-projects\SQL Projects\Shop EDA\employees.csv' DELIMITER ',' CSV HEADER;
+
+COPY offices TO 'D:\GitHub\portfolio-projects\SQL Projects\Shop EDA\offices.csv' DELIMITER ',' CSV HEADER;
+
+COPY orderdetails TO 'D:\GitHub\portfolio-projects\SQL Projects\Shop EDA\orderdetails.csv' DELIMITER ',' CSV HEADER;
+
+COPY orders TO 'D:\GitHub\portfolio-projects\SQL Projects\Shop EDA\orders.csv' DELIMITER ',' CSV HEADER;
+
+COPY payments TO 'D:\GitHub\portfolio-projects\SQL Projects\Shop EDA\payments.csv' DELIMITER ',' CSV HEADER;
+
+COPY productlines TO 'D:\GitHub\portfolio-projects\SQL Projects\Shop EDA\productlines.csv' DELIMITER ',' CSV HEADER;
+
+COPY products TO 'D:\GitHub\portfolio-projects\SQL Projects\Shop EDA\products.csv' DELIMITER ',' CSV HEADER;
+
+
+
+
+
