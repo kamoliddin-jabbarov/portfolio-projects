@@ -2,12 +2,12 @@
 
 This project analyzes peer-to-peer (P2P) transactions in the Khazna mobile app.
 
-## 1. Data Preparation [https://github.com/kamoliddin-jabbarov/portfolio-projects/blob/main/xazna/union%20all.sql]
+## 1. [Data Preparation](https://github.com/kamoliddin-jabbarov/portfolio-projects/blob/main/xazna/union%20all.sql)
 
 - Merged multiple raw data files using 
 - Standardized formats
 
-## 2. Exploratory Data Analysis (EDA) [https://github.com/kamoliddin-jabbarov/portfolio-projects/blob/main/xazna/EDA.sql]
+## 2. [Exploratory Data Analysis (EDA)](https://github.com/kamoliddin-jabbarov/portfolio-projects/blob/main/xazna/EDA.sql)
 
 Key analyses:
 
