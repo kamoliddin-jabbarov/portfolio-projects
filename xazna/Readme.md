@@ -20,7 +20,7 @@ Key analyses:
 ## 3. Dashboard Visualization
 
 - Built an interactive dashboard for key metrics
-- Generated synthetic data in Python to simulate 12 months of activity (original dataset was 6 months)
+- Generated synthetic data in (Python)[https://github.com/kamoliddin-jabbarov/portfolio-projects/blob/main/xazna/Creating%20fake%20datasets.ipynb] to simulate 12 months of activity based (original dataset)[https://github.com/kamoliddin-jabbarov/portfolio-projects/blob/main/xazna/for_fake_dataset.sql] (original dataset was 6 months)
 - Focused on dynamic visuals and trend clarity
 
 🔗 **Dashboard Link**: [https://public.tableau.com/app/profile/kamoliddin.jabbarov8162/viz/XaznaMainMetrics/MonthView]
